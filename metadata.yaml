@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28693#Tales-of-the-Fish-Patrol
 gutenberg_bookshelf: Animals-Wild
 gutenberg_issued: '2009-05-05'
 gutenberg_type: Text
