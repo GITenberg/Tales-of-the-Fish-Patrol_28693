@@ -1,0 +1,45 @@
+_repo: Tales-of-the-Fish-Patrol_28693
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2009-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28693'
+  lccn: 05032831
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing villages -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'San Francisco Bay Area (Calif.) -- Fiction'
+- !lcsh 'Fishers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Immigrants -- Fiction'
+tableOfContents: White and yellow -- The king of the Greeks -- A raid on the oyster
+  pirates -- The siege of the "Lancashire Queen" -- Charley's coup -- Demetrios Contos
+  -- Yellow handkerchief.
+title: Tales of the Fish Patrol
+url: http://www.gutenberg.org/ebooks/28693
